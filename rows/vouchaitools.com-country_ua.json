@@ -1,0 +1,2034 @@
+{
+ "site": "vouchaitools.com",
+ "shape": "country_ua",
+ "dimensions": "clientCountryName userAgent verifiedBotCategory",
+ "days": [
+  "2026-09-03",
+  "2026-09-04",
+  "2026-09-05",
+  "2026-09-06",
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09"
+ ],
+ "source": "Cloudflare GraphQL Analytics API, httpRequestsAdaptiveGroups, read 2026-09-10",
+ "kept": "rows that claim an AI crawler name or ask for a secret file (rules.py)",
+ "rows": [
+  {
+   "day": "2026-09-03",
+   "count": 77,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 69,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 66,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 52,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 44,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 27,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 18,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 14,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 7,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +claude-user@anthropic.com)",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "KR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.64 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/152.0.7977.64 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Claude-User (claude-code/2.1.259; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 49,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 35,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 28,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 20,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 19,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "KR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "MY",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Claude-User (claude-code/2.1.258; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 138,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 59,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 39,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 39,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 30,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 46,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 25,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 25,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 21,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "KR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Claude-User (claude-code/2.1.260; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 53,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 44,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 40,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 32,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 31,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 28,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/152.0.7977.64 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "KR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Googlebot-Image/1.0",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.64 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +claude-user@anthropic.com)",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IT",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "MY",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 64,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 48,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 34,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 32,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 25,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 24,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 11,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 7,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +claude-user@anthropic.com)",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "MY",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Claude-User (claude-code/2.1.260; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "KR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IT",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 52,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 45,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 26,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 21,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 17,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 16,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 15,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.82 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "MY",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "KR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "TR",
+    "userAgent": "Claude-User (claude-code/2.1.266; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Claude-User (claude-code/2.1.266; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Claude-User (claude-code/2.1.260; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  }
+ ]
+}

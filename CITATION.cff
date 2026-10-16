@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: >-
+  The AI Crawler Identity Report, round one: AI crawler names checked against
+  Cloudflare's bot verification
+message: If you use this dataset, please cite it.
+type: dataset
+authors:
+  - given-names: Minel
+    family-names: Gunesoglu
+    affiliation: Is My Brand in AI
+    email: minel@ismybrandinai.com
+    orcid: 'https://orcid.org/0009-0009-4823-6016'
+abstract: >-
+  One week of requests, 3 to 9 September 2026, to two websites run by the
+  author, ismybrandinai.com and vouchaitools.com, that either claimed one of 20
+  AI or search crawler names or asked for a secret file, read from Cloudflare's
+  GraphQL Analytics API with Cloudflare's bot verification for each request.
+  None of the 3,234 verified requests from AI and search crawlers to the two
+  sites asked for a hidden file. In the same week, 476 unverified requests to
+  ismybrandinai.com carrying 13 crawler names, among them GPTBot, ClaudeBot and
+  ChatGPT-User, asked for hidden files such as environment files, cloud
+  credentials and the credential files of AI coding tools. From 3 to 7
+  September, Microsoft's verified crawlers made 113 requests to
+  ismybrandinai.com while Bing Webmaster Tools counted about 4,150 AI citations
+  of the site. The grouped request rows, the classification rules and a script
+  that rebuilds every published table byte for byte are included.
+keywords:
+  - AI crawlers
+  - bot verification
+  - user agent spoofing
+  - web crawler
+  - Cloudflare
+  - generative engine optimization
+  - AI search
+license: CC-BY-4.0
+date-released: '2026-09-11'
+url: https://ismybrandinai.com/ai-visibility-case-study
+repository-code: https://github.com/minelgunesoglu-code/ai-crawler-identity-report

@@ -1,0 +1,40 @@
+{
+  "upload_type": "dataset",
+  "title": "The AI Crawler Identity Report, round one: AI crawler names checked against Cloudflare's bot verification",
+  "version": "1.0.0",
+  "publication_date": "2026-09-11",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Gunesoglu, Minel",
+      "affiliation": "Is My Brand in AI",
+      "orcid": "0009-0009-4823-6016"
+    }
+  ],
+  "description": "<p>One week of requests, 3 to 9 September 2026 (UTC), to two websites run by the author, ismybrandinai.com and vouchaitools.com, that either claimed one of 20 AI or search crawler names or asked for a secret file. The data was read on 10 September 2026 from Cloudflare's GraphQL Analytics API, dataset <code>httpRequestsAdaptiveGroups</code>, and each grouped row carries Cloudflare's verified bot category, so a request that only claims a crawler's name can be told apart from one Cloudflare verified.</p><p>Main results. None of the 3,234 verified requests from AI and search crawlers to the two sites asked for a hidden file. In the same week, 476 unverified requests to ismybrandinai.com carrying 13 crawler names, among them GPTBot, ClaudeBot and ChatGPT-User, asked for hidden files: environment files, cloud credentials such as <code>/.aws/credentials</code>, and the credential and config files of AI coding tools. Verified requests to ismybrandinai.com by company were OpenAI 396 (including 240 from ChatGPT-User), Meta 314, Microsoft 168, Amazon 142, Google 136, Anthropic 49, Baidu 42 and Apple 35.</p><p>Crawls and citations. From 3 to 7 September, Microsoft's verified crawlers made 113 requests to ismybrandinai.com while Bing Webmaster Tools' AI Performance report counted about 4,150 AI citations of the site, 37 citations per request; citations outnumbered requests on each of the five days, by 12 to 216 times.</p><p>Definitions. A request counts as verified when Cloudflare places it in a verified bot category. A request counts as asking for a hidden file when its path has a segment that starts with a dot, other than <code>/.well-known/</code>, or matches a short list of well-known secret files. The exact rules are in <code>rules.py</code>.</p><p>Contents and limits. The rows contain only requests that claimed a crawler name or asked for a secret file, so they do not show how much ordinary traffic either site receives. They contain no IP addresses, query strings or cookies. <code>analyze.py</code>, standard library only, rebuilds the four published tables byte for byte from the rows and prints the counts quoted in the article. Bing displays daily values of 1,000 or more rounded to the hundred; this affects one day in the window, 3 September (1,200).</p>",
+  "keywords": [
+    "AI crawlers",
+    "bot verification",
+    "user agent spoofing",
+    "web crawler",
+    "Cloudflare",
+    "generative engine optimization",
+    "AI search",
+    "Bing Webmaster Tools"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ismybrandinai.com/ai-visibility-case-study",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/minelgunesoglu-code/ai-crawler-identity-report",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "The CC BY 4.0 licence applies to the material produced by the author. User agents and requested paths are strings sent by third-party clients and are reproduced verbatim as the object of study; crawler and company names belong to their owners. See LICENCE-NOTES.md in the archive."
+}

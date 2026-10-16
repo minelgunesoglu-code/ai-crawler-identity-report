@@ -1,0 +1,6471 @@
+{
+ "site": "ismybrandinai.com",
+ "shape": "hour_path",
+ "dimensions": "datetimeHour clientRequestPath edgeResponseStatus",
+ "days": [
+  "2026-09-03",
+  "2026-09-04",
+  "2026-09-05",
+  "2026-09-06",
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09"
+ ],
+ "source": "Cloudflare GraphQL Analytics API, httpRequestsAdaptiveGroups, read 2026-09-10",
+ "kept": "rows that claim an AI crawler name or ask for a secret file (rules.py)",
+ "rows": [
+  {
+   "day": "2026-09-03",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/ci/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/elasticsearch/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/scripts/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/bulk/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/administrator/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/.env.test",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/web/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/nuxt/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/old/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/buildkite/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/service/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/backup/.env",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.swp",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-03T08:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.development",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-03T09:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-03T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-03T05:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-03T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/.env_copy",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/.env.swp",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/notifications/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/mail/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/admin-panel/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/core/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/psnlink/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/credentials.json",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/redis/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/backend/.env",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T03:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.bak",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php~",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/site/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.esmtprc%20",
+    "datetimeHour": "2026-09-04T13:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.swp",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/html/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/site/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T05:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/src/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T09:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/src/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T09:00:00Z",
+    "edgeResponseStatus": 522
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/www/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T09:00:00Z",
+    "edgeResponseStatus": 523
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T09:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/html/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/www/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T03:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T12:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-04T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/cloud/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/lab/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/smtp/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/prestashop/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/mongodb/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 21,
+   "dimensions": {
+    "clientRequestPath": "/preview/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/vue/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/config/app/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/redis/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/server/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/cache/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/local/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/laravel5/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/ansible/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/.env.sample",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/worker/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/portal/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/crm/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/queue/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/.env_copy",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/tools/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env_copy",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/api/dev/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.uat",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/ansible/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/preview/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/stage/.env",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.remote",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.bak",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php-backup",
+    "datetimeHour": "2026-09-05T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-05T13:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-05T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-05T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php~",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/core/.env",
+    "datetimeHour": "2026-09-05T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-05T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-05T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.swp",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-05T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/saas/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/lab/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/cms/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/psnlink/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/sender/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/releases/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/.env2",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/private/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/github/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/database/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/express/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/dev/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.uat",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T02:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-07T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T01:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T01:00:00Z",
+    "edgeResponseStatus": 522
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-07T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 11,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.vultr-cli.yaml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/environ",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/web/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.bash_profile",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/production/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.ovh.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/web/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/sendgrid.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.oci/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.openclaw/openclaw.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/admin/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/img../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gcloud/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/application.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/environ",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/node/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/hcloud/cli.toml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.local/share/opencode/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/client/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.claude.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.s3cfg",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ec2-user/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.vault",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_rsa",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/node/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.streamlit/secrets.toml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/static../.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/home/ubuntu/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/laravel/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/google-cloud-key.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/public/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.ssh/id_rsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/task/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_rsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/aws/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.claude/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/static../.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/root/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gcp/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.claude/.credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/etc/passwd",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/usr/src/app/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/etc/nginx/nginx.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/assets../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252fproc/self/environ",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.ovh.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.bitbucket/pipelines.yml",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/api/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.htpasswd",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.oci/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/secrets.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/html/wp-config.php",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gcp/service-account.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.github/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.development",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.streamlit/secrets.toml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/etc/apache2/apache2.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/home/azureuser/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/client_secret.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.cursor/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/docker/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/secrets.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/amplifyconfiguration.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/id_rsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.claude/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.zsh_history",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/v1/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.flaskenv",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.github/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/run/secrets/kubernetes.io/serviceaccount/token",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_ecdsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.swp",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.config/anthropic/credentials/default.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.hermes/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/media../.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.claude/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_dsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/uploads../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/secrets.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/debian/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/html/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.docker/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/credentials.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.svn/entries",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/service-account.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.docker",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/anthropic/credentials/default.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.kube/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.js",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/1/environ",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gradle/gradle.properties",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.serverless/serverless-state.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/gcp-credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/rootkey.csv",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/backup/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.boto",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.codeium/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.secrets.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.claude/.credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.local/share/opencode/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/root/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.cursor/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.cursor/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.bash_history",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.vite/manifest.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git-credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gitlab-ci.yml",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/sso/cache/",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/secrets.yaml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.hermes/config.yaml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.docker/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_ed25519",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.local/share/opencode/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.codeium/windsurf/mcp_config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials.old",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/google-cloud-key.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/gcloud/credentials.db",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/usr/src/app/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/secret.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/credentials.backup",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.ssh/id_ed25519",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/home/ubuntu/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/serverless.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/backend/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/html/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.openclaw/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/public/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.development",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/s3/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/src/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.github/workflows",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/staging/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.github/workflows/deploy.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ec2-user/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/id_ed25519",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/core/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/aws.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.azure/azureProfile.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.config/anthropic/credentials/default.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/admin/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/rootkey.csv",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/dist/.vite/manifest.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/aws-exports.js",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.codex/config.toml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/backend/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.anthropic",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252froot/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/aws/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.openai",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/dev/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.hermes/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/usr/src/app/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/www-data/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/server/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/node/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/src/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/azureuser/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.oci/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env~",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.azure/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gcloud/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/s3/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/launch.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cmdline",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.cursor/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/static../.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.old",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252fapp/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/frontend/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.gitlab-ci.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/v2/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/secrets.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.terraform/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/images../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.windsurf/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.staging",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/credentials.js",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/linode-cli",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/terraform.tfvars",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.flaskenv",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.swp",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.ovh.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/linode-cli",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.gitlab-ci.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.github/workflows/deploy.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.ovh.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/core/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.bash_history",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/hcloud/cli.toml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.hermes/config.yaml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/usr/src/app/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/gcloud/credentials.db",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/usr/src/app/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.codex/config.toml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.boto",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/static/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/application.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.cursor/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.openclaw/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.azure/config",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vite/manifest.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/../.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.development",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.docker",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/root/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.codeium/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/id_ed25519",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backup/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/admin/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/prod/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/credentials.backup",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.cursor/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/images../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/mysql/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/service-account.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aider.conf.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.secrets.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/../.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.local/share/opencode/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/database.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/client/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.gcp/service-account.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/cms/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/2024/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/config/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/etc/nginx/nginx.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aider.conf.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ec2-user/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/src/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/etc/apache2/apache2.conf",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.s3cfg",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config%252ephp",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.claude/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.docker/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252fapp/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/aws-exports.js",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.config/openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.windsurf/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T08:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/img../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/tmui/login.jsp/..%253b/tmui/locallb/workspace/fileread.jsp%253ffilename%253d/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.azure/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_dsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/1/environ",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/media../.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.gcloud/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/staging/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/client/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/etc/passwd",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.bash_profile",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/static/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git-credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/~/.netrc",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252froot/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.development",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/dev/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.kube/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/root/%2eaws/credentials",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config%2ephp",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.gitlab-ci.yml",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/mcp.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/home/ubuntu/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/supabase/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials.old",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/production/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.github/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.hermes/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/id_rsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ec2-user/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/azureuser/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/blog/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/static//etc/passwd",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.ssh/id_rsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/credentials.js",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/uploads../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.terraform/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/docker/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.gcloud/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.oci/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.zsh_history",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.gradle/gradle.properties",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secrets.yaml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/customer/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.vultr-cli.yaml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/node/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/webadmin/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/rootkey.csv",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/s3/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/static../.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secrets.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/serverless.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/aws.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_next/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/dist/.vite/manifest.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/html/wp-config.php",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.local",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.hermes/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.openai/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/home/azureuser/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/v1/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/launch.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/laravel/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/v1/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secret.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/v1/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.htpasswd",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/customer/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_ed25519",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/uploads/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_rsa",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/task/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.openclaw/openclaw.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.svn/entries",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/v2/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.codeium/windsurf/mcp_config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.config/anthropic/credentials/default.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/gcp-credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/app/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/s3/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/server/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.azure/azureProfile.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/www-data/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_nuxt/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/upload/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/sso/cache/",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.docker/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/web/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/amplifyconfiguration.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/home/ubuntu/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/debian/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/root/%2eaws/credentials",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/cloud/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_rsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.openai",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/static../.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/database.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/tmui/login.jsp/..%3b/tmui/locallb/workspace/fileread.jsp%3ffilename%3d/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/client/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secrets.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env~",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cmdline",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.anthropic/config.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/client_secret.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/supabase/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/frontend/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/aws/.env.production",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.js",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/run/secrets/kubernetes.io/serviceaccount/token",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/aws/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/secrets.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/sendgrid.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/_nuxt/../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.claude.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T08:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/terraform.tfvars",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.local/share/opencode/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/db.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.ssh/id_ed25519",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.azure/credentials",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secrets.yml",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/panel/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_ecdsa",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/node/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.vault",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/.serverless/serverless-state.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/tmui/login.jsp/..%253b/tmui/locallb/workspace/fileread.jsp%253ffilename%253d/api/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.claude/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/.env.staging",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/old/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.claude/settings.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/usr/src/app/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/app/rootkey.csv",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252fproc/self/environ",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/cloud/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.github/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T09:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/node/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/assets../.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/static../.azure/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.local/share/opencode/auth.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/cms/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/html/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.config/anthropic/credentials/default.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/production/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.anthropic",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/ubuntu/.aws/config",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/home/admin/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/var/www/.aws/credentials",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/console/.env",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/v1/credentials",
+    "datetimeHour": "2026-09-08T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/@fs/root/.aws/credentials.bak",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.old",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/terraform.tfstate",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.azure/accessTokens.json",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T20:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T17:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-09T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-09T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  }
+ ]
+}

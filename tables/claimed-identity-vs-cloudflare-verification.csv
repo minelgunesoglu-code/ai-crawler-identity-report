@@ -1,0 +1,31 @@
+site,claimed_crawler,verified,verified_to_secret_paths,unverified,unverified_to_secret_paths,verified_share
+ismybrandinai.com,Meta-ExternalAgent,314,0,34,17,0.902
+ismybrandinai.com,ChatGPT-User,240,0,90,49,0.727
+ismybrandinai.com,Googlebot,136,0,97,1,0.584
+ismybrandinai.com,Amazonbot,142,0,87,53,0.62
+ismybrandinai.com,OAI-SearchBot,142,0,71,48,0.667
+ismybrandinai.com,BingBot,168,0,0,0,1.0
+ismybrandinai.com,Claude-User,0,0,121,69,0.0
+ismybrandinai.com,GPTBot,14,0,88,53,0.137
+ismybrandinai.com,ClaudeBot,49,0,49,34,0.5
+ismybrandinai.com,Applebot,35,0,59,39,0.372
+ismybrandinai.com,Bytespider,0,0,56,26,0.0
+ismybrandinai.com,Perplexity-User,0,0,49,49,0.0
+ismybrandinai.com,Baiduspider,42,0,0,0,1.0
+ismybrandinai.com,Claude-SearchBot,0,0,26,16,0.0
+ismybrandinai.com,PerplexityBot,0,0,22,22,0.0
+ismybrandinai.com,CCBot,0,0,2,0,0.0
+ismybrandinai.com,"PerplexityBot (cannot be verified, no hidden-file request)",0,0,178,0,
+ismybrandinai.com,"Perplexity-User (cannot be verified, no hidden-file request)",0,0,38,0,
+vouchaitools.com,Meta-ExternalAgent,580,0,1,0,0.998
+vouchaitools.com,BingBot,383,0,0,0,1.0
+vouchaitools.com,ChatGPT-User,249,0,0,0,1.0
+vouchaitools.com,OAI-SearchBot,226,0,0,0,1.0
+vouchaitools.com,Googlebot,163,0,1,0,0.994
+vouchaitools.com,Applebot,145,0,2,0,0.986
+vouchaitools.com,ClaudeBot,114,0,0,0,1.0
+vouchaitools.com,Amazonbot,76,0,0,0,1.0
+vouchaitools.com,Claude-User,6,0,7,0,0.462
+vouchaitools.com,GPTBot,10,0,0,0,1.0
+vouchaitools.com,Baiduspider,0,0,6,0,0.0
+vouchaitools.com,"PerplexityBot (cannot be verified, no hidden-file request)",0,0,177,0,

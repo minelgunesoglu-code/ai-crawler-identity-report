@@ -1,0 +1,4815 @@
+{
+ "site": "ismybrandinai.com",
+ "shape": "country_ua",
+ "dimensions": "clientCountryName userAgent verifiedBotCategory",
+ "days": [
+  "2026-09-03",
+  "2026-09-04",
+  "2026-09-05",
+  "2026-09-06",
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09"
+ ],
+ "source": "Cloudflare GraphQL Analytics API, httpRequestsAdaptiveGroups, read 2026-09-10",
+ "kept": "rows that claim an AI crawler name or ask for a secret file (rules.py)",
+ "rows": [
+  {
+   "day": "2026-09-03",
+   "count": 19,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 15,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 11,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 7,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/151.0.7922.173 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-03",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 26,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 19,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IT",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 80,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 52,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 47,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 42,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 36,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 32,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IT",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Googlebot-News",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "FR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 48,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 34,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 31,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 24,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 14,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/151.0.7922.173 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/152.0.7977.64 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Googlebot-Image/1.0",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "TR",
+    "userAgent": "Claude-User (claude-code/2.1.260; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 31,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.156 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 15,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 14,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 14,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/152.0.7977.64 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "HK",
+    "userAgent": "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/151.0.7922.108 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "MY",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 54,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 50,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 40,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 33,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 22,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 20,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 18,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 18,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 18,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 16,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 14,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 14,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 11,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 11,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +Claude-User@anthropic.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/131.0.6677.0 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +claudebot@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 9,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/152.0.7977.64 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 7,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 7,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Claude-User/1.0; +Claude-User@anthropic.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 7,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; Bytespider; +https://zhanzhang.toutiao.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Bytespider; +https://zhanzhang.toutiao.com/",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.919.96 Mobile Safari/537.36; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:132.18) Gecko/20100101 Firefox/132.18; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:78.12) Gecko/20100101 Firefox/78.12; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/128.0.3927.20 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.2033.218 Mobile Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.1048.10 Mobile Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.5340.74 Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.945.51 Mobile Safari/537.36; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/136.0.5543.91 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:149.0) Gecko/20100101 Firefox/149.0; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot) Version/17.4 Safari/605.1.15",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/147.0.4794.90 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/136.0.8318.195 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.2757.38 Mobile Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.3585.72 Safari/537.36 Edg/120.0.3585.72; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/136.0.4141.134 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/147.0.8788.132 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/134.0.8346.16 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.8682.238 Safari/537.36; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0; compatible; ClaudeBot/1.0; +claudebot@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/120.0.8071.239 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.3290.78 Mobile Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/148.0.7135.225 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.4028.82 Mobile Safari/537.36; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:150.5) Gecko/20100101 Firefox/150.5; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.2778.104 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/131.0.8173.126 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/130.0.8340.160 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/131.0.3553.41 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/124.0.6189.86 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/91.0.1368.74 Safari/537.36 Edg/91.0.1368.74",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Version/19.7 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Version/19.7 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot) Chrome/130.0.8538.97 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/118.0.5257.231 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot) Chrome/126.0.3190.134 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.13) Gecko/20100101 Firefox/105.13; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.832.6 Safari/537.36 Edg/136.0.832.6; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler) Chrome/124.0.5461.232 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.1546.14 Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.8227.247 Safari/537.36 Edg/134.0.8227.247; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.12) Gecko/20100101 Firefox/128.12; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/114.0.8448.80 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5058.162 Safari/537.36; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.4810.216 Safari/537.36; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/136.0.6618.57 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/120.0.8918.64 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.6310.23 Safari/537.36; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:121.4) Gecko/20100101 Firefox/121.4; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.5) Gecko/20100101 Firefox/127.5; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Version/17.0 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:133.3) Gecko/20100101 Firefox/133.3; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:78.11) Gecko/20100101 Firefox/78.11; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.920.70 Safari/537.36; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.4980.0 Mobile Safari/537.36; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/130.0.3433.195 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/133.0.6917.203 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/147.0.5873.90 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:143.14) Gecko/20100101 Firefox/143.14; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot) Chrome/134.0.1589.174 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.9) Gecko/20100101 Firefox/132.9; compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15; compatible; ClaudeBot/1.0; +claudebot@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6159.137 Mobile Safari/537.36; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.4) Gecko/20100101 Firefox/132.4; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/136.0.3283.79 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.4418.76 Safari/537.36; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/124.0.1360.99 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/136.0.1076.188 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.1218.194 Mobile Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot) Chrome/134.0.1432.127 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/120.0.4817.91 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NZ",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/120.0.8732.190 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Version/18.4 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.4) Gecko/20100101 Firefox/78.4; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot) Chrome/128.0.393.24 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.3186.104 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.2527.237 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/131.0.8648.164 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.1062.232 Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot) Chrome/151.0.2841.230 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot) Chrome/134.0.4158.130 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.11) Gecko/20100101 Firefox/121.11; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7913.217 Mobile Safari/537.36; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.8530.50 Mobile Safari/537.36; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:149.15) Gecko/20100101 Firefox/149.15; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.8504.229 Mobile Safari/537.36; compatible; Bytespider; +https://zhanzhang.toutiao.com/",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5172.208 Safari/537.36 Edg/147.0.5172.208; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.156 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (compatible; GPTBot/1.2; +https://openai.com/gptbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:150.11) Gecko/20100101 Firefox/150.11; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.7039.3 Mobile Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6239.105 Mobile Safari/537.36; compatible; Bytespider; +https://zhanzhang.toutiao.com/",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/147.0.4507.208 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/85.0.1214.79 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/118.0.8096.175 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6913.127 Safari/537.36 Edg/133.0.6913.127; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.10) Gecko/20100101 Firefox/150.10; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.4315.56 Safari/537.36; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.4798.100 Safari/537.36; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.3954.54 Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/114.0.4193.17 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.8082.160 Mobile Safari/537.36; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot) Chrome/124.0.1535.214 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.2084.66 Mobile Safari/537.36; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/122.0.8812.85 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.8946.127 Safari/537.36; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/136.0.1540.219 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/147.0.5861.212 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.1053.83 Mobile Safari/537.36; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.5) Gecko/20100101 Firefox/121.5; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.8489.110 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/134.0.7290.139 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.1 Safari/605.1.15; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Version/18.4 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.7 Mobile/15E148 Safari/604.1; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/131.0.7863.179 Safari/537.36 Edg/131.0.7863.179",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.2 Safari/605.1.15; compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/148.0.6009.145 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:127.11) Gecko/20100101 Firefox/127.11; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler) Chrome/91.0.1203.180 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot) Chrome/120.0.8666.132 Safari/537.36 Edg/120.0.8666.132",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.3434.238 Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/120.0.2348.238 Safari/537.36 Edg/120.0.2348.238",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.16) Gecko/20100101 Firefox/78.16; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.9) Gecko/20100101 Firefox/127.9; compatible; ClaudeBot/1.0; +claudebot@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:133.13) Gecko/20100101 Firefox/133.13; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.1388.244 Safari/537.36 Edg/128.0.1388.244; compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.4149.9 Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:105.16) Gecko/20100101 Firefox/105.16; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler) Chrome/114.0.7603.43 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.1037.32 Mobile Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/85.0.8887.182 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.16) Gecko/20100101 Firefox/149.16; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.2535.103 Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.420.50 Mobile Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/131.0.6509.190 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:127.1) Gecko/20100101 Firefox/127.1; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "TW",
+    "userAgent": "Claude-User (claude-code/2.1.260; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler) Chrome/134.0.5780.200 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6214.239 Mobile Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot) Chrome/148.0.3035.20 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/120.0.1196.235 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot) Chrome/124.0.7166.227 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.786.57 Mobile Safari/537.36; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot) Version/19.0 Safari/605.1.15",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/91.0.4094.151 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6573.194 Mobile Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/120.0.3630.23 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/136.0.4299.48 Safari/537.36 Edg/136.0.4299.48",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/114.0.6112.206 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_7) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Version/16.5 Safari/605.1.15",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.7) Gecko/20100101 Firefox/121.7; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/134.0.4032.119 Safari/537.36 Edg/134.0.4032.119",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot) Chrome/118.0.7358.169 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler) Chrome/85.0.3845.123 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot) Chrome/136.0.281.216 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot) Chrome/109.0.7541.182 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.2) Gecko/20100101 Firefox/150.2; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot) Chrome/85.0.4293.82 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot) Chrome/124.0.7679.181 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/131.0.4327.59 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +Claude-User@anthropic.com) Chrome/131.0.236.216 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.8) Gecko/20100101 Firefox/132.8; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.1432.74 Mobile Safari/537.36; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/128.0.1755.116 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/118.0.1726.195 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.2) Gecko/20100101 Firefox/127.2; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/109.0.2400.84 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/118.0.1105.171 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/126.0.7520.232 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/128.0.7527.229 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.2059.237 Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot) Chrome/91.0.494.123 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/133.0.1436.164 Safari/537.36 Edg/133.0.1436.164",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.7589.104 Mobile Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6382.128 Safari/537.36; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/128.0.1370.169 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot) Chrome/136.0.7973.41 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:127.2) Gecko/20100101 Firefox/127.2; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Version/16.7 Safari/605.1.15",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/118.0.4716.71 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.488.183 Mobile Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.8200.131 Mobile Safari/537.36; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.7081.207 Mobile Safari/537.36; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.8950.130 Mobile Safari/537.36; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/134.0.3383.207 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/147.0.3572.211 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/151.0.6782.120 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/118.0.7241.130 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/134.0.8381.120 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/124.0.5023.5 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.2358.62 Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.3482.65 Safari/537.36; compatible; ClaudeBot/1.0; +claudebot@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.2823.202 Mobile Safari/537.36; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/85.0.3334.215 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Googlebot-Image/1.0",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5038.62 Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot) Version/19.4 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.2) Gecko/20100101 Firefox/127.2; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:132.11) Gecko/20100101 Firefox/132.11; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.8107.24 Safari/537.36; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Version/18.4 Mobile/15E148 Safari/604.1",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5715.50 Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4823.49 Safari/537.36; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.223.49 Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "FR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:121.3) Gecko/20100101 Firefox/121.3; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.1) Gecko/20100101 Firefox/127.1; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/114.0.6201.25 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/120.0.8686.151 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/122.0.7759.211 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4272.103 Safari/537.36; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.2915.188 Safari/537.36; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:133.2) Gecko/20100101 Firefox/133.2; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.3429.40 Mobile Safari/537.36; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/148.0.6623.50 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7720.153 Mobile Safari/537.36; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3966.96 Safari/537.36 Edg/118.0.3966.96; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:78.6) Gecko/20100101 Firefox/78.6; compatible; ClaudeBot/1.0; +claudebot@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.7179.58 Safari/537.36 Edg/91.0.7179.58; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Bytespider; +https://zhanzhang.toutiao.com/) Chrome/130.0.3033.75 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.2) Gecko/20100101 Firefox/150.2; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/147.0.7860.228 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.3227.11 Safari/537.36; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.2 Mobile/15E148 Safari/604.1; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.681.27 Safari/537.36; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:133.5) Gecko/20100101 Firefox/133.5; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/120.0.4239.80 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.381.105 Mobile Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/124.0.5273.152 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.186.151 Mobile Safari/537.36; compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.15) Gecko/20100101 Firefox/149.15; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.3587.112 Safari/537.36; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.12) Gecko/20100101 Firefox/149.12; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5843.99 Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/118.0.429.30 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user) Chrome/133.0.4914.198 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.6) Gecko/20100101 Firefox/128.6; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; meta-externalagent/1.1; +https://developers.facebook.com/docs/sharing/webmasters/crawler) Chrome/114.0.3985.217 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.8712.102 Safari/537.36 Edg/109.0.8712.102; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6481.242 Safari/537.36 Edg/136.0.6481.242; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.5 Mobile/15E148 Safari/604.1; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.8) Gecko/20100101 Firefox/132.8; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:133.13) Gecko/20100101 Firefox/133.13; compatible; Claude-User/1.0; +Claude-User@anthropic.com",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/128.0.87.10 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.4435.84 Mobile Safari/537.36; compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +https://www.anthropic.com/claude-user) Chrome/124.0.3618.53 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot) Chrome/124.0.843.190 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/126.0.8500.151 Safari/537.36 Edg/126.0.8500.151",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Applebot/0.1; +http://www.apple.com/go/applebot) Chrome/124.0.5466.36 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.13) Gecko/20100101 Firefox/143.13; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.9) Gecko/20100101 Firefox/121.9; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.15) Gecko/20100101 Firefox/105.15; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot) Chrome/85.0.8978.5 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1; compatible; Applebot/0.1; +http://www.apple.com/go/applebot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.2454.229 Safari/537.36 Edg/148.0.2454.229; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com) Chrome/85.0.8269.149 Mobile Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +Claude-User@anthropic.com) Chrome/130.0.3149.116 Safari/537.36",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4217.216 Mobile Safari/537.36; compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:149.11) Gecko/20100101 Firefox/149.11; compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "NL",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5762.204 Mobile Safari/537.36; compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 61,
+   "dimensions": {
+    "clientCountryName": "SE",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 18,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 16,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 13,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 12,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/152.0.7977.64 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 11,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.36",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.82 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/151.0.7922.108 Safari/537.36",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 6,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 5,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 4,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.173 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "ID",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "BR",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 3,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "verifiedBotCategory": "AI Search"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "ES",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "PL",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "GB",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "verifiedBotCategory": "AI Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientCountryName": "JP",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IT",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "US",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "AU",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "BE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CH",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "SG",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "CN",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "verifiedBotCategory": "Search Engine Crawler"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "TR",
+    "userAgent": "Claude-User (claude-code/2.1.260; +https://support.anthropic.com/)",
+    "verifiedBotCategory": ""
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "IN",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "MY",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DE",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientCountryName": "DK",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "verifiedBotCategory": "AI Assistant"
+   }
+  }
+ ]
+}

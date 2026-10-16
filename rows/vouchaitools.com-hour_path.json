@@ -1,0 +1,5859 @@
+{
+ "site": "vouchaitools.com",
+ "shape": "hour_path",
+ "dimensions": "datetimeHour clientRequestPath edgeResponseStatus",
+ "days": [
+  "2026-09-03",
+  "2026-09-04",
+  "2026-09-05",
+  "2026-09-06",
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09"
+ ],
+ "source": "Cloudflare GraphQL Analytics API, httpRequestsAdaptiveGroups, read 2026-09-10",
+ "kept": "rows that claim an AI crawler name or ask for a secret file (rules.py)",
+ "rows": [
+  {
+   "day": "2026-09-04",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 9,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.amper/challenge/fp.js",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.rt/verify",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 405
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/backend/.env",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.amper/challenge/fp.js",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/www/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/site/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php~",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.amper/challenge/fp.js",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.msmtprc",
+    "datetimeHour": "2026-09-04T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T13:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.rt/verify",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/html/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T14:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/site/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.rt/verify",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.amper/challenge/fp.js",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.bak",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.rt/verify",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.rt/verify",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 405
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/www/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.env",
+    "datetimeHour": "2026-09-04T19:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.swp",
+    "datetimeHour": "2026-09-04T06:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-04T18:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.amper/challenge/fp.js",
+    "datetimeHour": "2026-09-04T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/src/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/src/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/html/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-04",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.git/config",
+    "datetimeHour": "2026-09-04T15:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/mongodb/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/www/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 21,
+   "dimensions": {
+    "clientRequestPath": "/graphql/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 21,
+   "dimensions": {
+    "clientRequestPath": "/deploy/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 21,
+   "dimensions": {
+    "clientRequestPath": "/prestashop/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 21,
+   "dimensions": {
+    "clientRequestPath": "/rabbitmq/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 21,
+   "dimensions": {
+    "clientRequestPath": "/store/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/.env.development",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/mail/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/api/staging/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/service/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/private/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/github/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/api/staging/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 14,
+   "dimensions": {
+    "clientRequestPath": "/site/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/dashboard/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/development/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/buildkite/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/credentials.json",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/actions/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/email/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/scripts/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 7,
+   "dimensions": {
+    "clientRequestPath": "/mail/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.yaml",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/storage/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/site/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/production/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/nuxt/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env1",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/cloud/.env",
+    "datetimeHour": "2026-09-05T15:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-05T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/sftp.json",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-05T08:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.npmrc",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_rsa",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.bak",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/user_secrets.yml",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.bash_history",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php.swp",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/stage/.env",
+    "datetimeHour": "2026-09-05T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.svn/wc.db",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php~",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_ed25519",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secrets.json",
+    "datetimeHour": "2026-09-05T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-05T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-05",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-05T07:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/user-panel/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/vite/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/logs/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/en/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.dist",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/cron/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/react/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/laravel/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/v3/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env2",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/storage/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/v3/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/prod/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/docker/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/mailer/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/api/dev/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/k8s/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/newsletter/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/prod/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/deploy/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/kubernetes/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/client/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/core/app/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/angular/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/test/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/prestashop/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/node/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/backend/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/admin-panel/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/node/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/smtp/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/saas/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/current/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/azure/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/laravel5/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.yml",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/cd/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.dist",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/gateway/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/bulk/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/nest/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/kafka/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/var/www/html/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/kubernetes/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/web/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/vite/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/src/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/crm/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/jenkins/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/newsletter/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/crm/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/cakephp/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.dist",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/sbin/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/site/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/jenkins/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/frontend/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/shared/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/src/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/releases/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/rabbitmq/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/api/v3/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/redis/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/angular/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/temp/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/worker/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/preview/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.json",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/var/www/html/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/gateway/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/sparkpost/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/k8s/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/test/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/lab/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/api/staging/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-06T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.DS_Store",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.preprod",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/shared/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/email/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/mailer/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.git/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/bulk/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env1",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.docker",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/sftp.json",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/current/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/gitlab/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/store/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/email/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env2",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/live/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/mail/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.uat",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/credentials.json",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.yaml",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/admin-panel/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/kafka/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/qa/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/zend/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/uat/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/shared/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/www/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/mongodb/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/html/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/rest/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/symfony/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/sbin/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup2",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/dev/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/backend/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/azure/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/sftp.json",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/codeigniter/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/sendgrid/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/queue/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/graphql/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/tmp/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.example",
+    "datetimeHour": "2026-09-06T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/laravel/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/gcp/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/app/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/sendgrid/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/old/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/preview/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.DS_Store",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env1",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/preview/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/old/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/aws/.env",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/laravel5/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/nuxt/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/temp/.env",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup1",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-06T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.swp",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/.env",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T11:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-06T18:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/app/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/dashboard/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/src/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-06T22:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/www/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/html/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env_copy",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/site/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/backend/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-06T16:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/cloud/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/www/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-06T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/mysql/.env",
+    "datetimeHour": "2026-09-06T09:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wordpress/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.development",
+    "datetimeHour": "2026-09-06T10:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/src/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-06",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/site/.git/config",
+    "datetimeHour": "2026-09-06T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/stage/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/build/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/scripts/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/job/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/resources/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/circleci/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/zend/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/prestashop/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/dev/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.env.yml",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 3,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.local",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.stage",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 504
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/@fs/proc/self/cwd/.env.local",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/app/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/functions/.env",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/html/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/sftp.json",
+    "datetimeHour": "2026-09-07T21:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/public_html/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/credentials.json",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.save",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.prod",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T05:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.aws/credentials",
+    "datetimeHour": "2026-09-07T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/user_secrets.yml",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T03:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/web/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/HEAD",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/secrets.json",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-07T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_rsa",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/config/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.ssh/id_ed25519",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.live",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/sftp.json",
+    "datetimeHour": "2026-09-07T21:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.bak",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.dev",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.bash_history",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.svn/wc.db",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-07T05:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.npmrc",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/wp-config.php",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 403
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-07T00:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.vscode/sftp.json",
+    "datetimeHour": "2026-09-07T10:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.backup",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/laravel/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/aws.env",
+    "datetimeHour": "2026-09-07T16:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/html/.env",
+    "datetimeHour": "2026-09-07T02:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-07",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-07T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/exapi/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/jenkins/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 24,
+   "dimensions": {
+    "clientRequestPath": "/public/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/development/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 18,
+   "dimensions": {
+    "clientRequestPath": "/ci/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/express/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/drupal/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 16,
+   "dimensions": {
+    "clientRequestPath": "/ci/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/rest/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/resources/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/angular/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/.env1",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/v2/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/public_html/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 12,
+   "dimensions": {
+    "clientRequestPath": "/shared/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/yii/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/v2/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/lib/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/config/app/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/backup/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/prestashop/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/elasticsearch/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/mailjet/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/api/dev/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/.env.test",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/crm/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/vue/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/transactional/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/server/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/config/app/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/notify/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.old",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/application/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/.env.staging",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 5,
+   "dimensions": {
+    "clientRequestPath": "/notify/.env",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/var/www/.env",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.development",
+    "datetimeHour": "2026-09-08T01:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T03:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T11:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T13:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-08T06:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-08",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-08T11:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/public_html/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/.env.swp",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/releases/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/local/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/resources/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/database/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/sbin/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/storage/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/lib/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/worker/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/en/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/user-panel/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/backup/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 10,
+   "dimensions": {
+    "clientRequestPath": "/current/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/cloud/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/terraform/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/temp/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/postgres/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/mandrill/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.git/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 8,
+   "dimensions": {
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 6,
+   "dimensions": {
+    "clientRequestPath": "/.env.json",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/production/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 4,
+   "dimensions": {
+    "clientRequestPath": "/express/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/smtp/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/htdocs/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/live/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T08:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/brevo/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 2,
+   "dimensions": {
+    "clientRequestPath": "/.env.test",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env.production",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.svn/wc.db",
+    "datetimeHour": "2026-09-09T08:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/api/.env",
+    "datetimeHour": "2026-09-09T04:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T07:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T14:00:00Z",
+    "edgeResponseStatus": 404
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.git/config",
+    "datetimeHour": "2026-09-09T08:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  },
+  {
+   "day": "2026-09-09",
+   "count": 1,
+   "dimensions": {
+    "clientRequestPath": "/.env",
+    "datetimeHour": "2026-09-09T07:00:00Z",
+    "edgeResponseStatus": 301
+   }
+  }
+ ]
+}
