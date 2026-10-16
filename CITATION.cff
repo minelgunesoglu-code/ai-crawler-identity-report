@@ -36,3 +36,11 @@ license: CC-BY-4.0
 date-released: '2026-09-11'
 url: https://ismybrandinai.com/ai-visibility-case-study
 repository-code: https://github.com/minelgunesoglu-code/ai-crawler-identity-report
+doi: "10.5281/zenodo.23427102"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23427102"
+    description: Concept DOI, resolves to the latest version
+  - type: doi
+    value: "10.5281/zenodo.23427103"
+    description: Version 1.0.0

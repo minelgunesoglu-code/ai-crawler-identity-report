@@ -6,7 +6,7 @@
 |---|---|
 | **Article** | https://ismybrandinai.com/ai-visibility-case-study |
 | **Repository** | https://github.com/minelgunesoglu-code/ai-crawler-identity-report |
-| **Archive** | DOI: to be added after the Zenodo release |
+| **Archive** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23427102.svg)](https://doi.org/10.5281/zenodo.23427102) concept DOI, resolves to the latest version |
 | **Collected** | 3 to 9 September 2026 (UTC), read from Cloudflare on 10 September 2026 |
 | **Sites** | ismybrandinai.com and vouchaitools.com, both run by the author |
 | **Source** | Cloudflare GraphQL Analytics API, dataset `httpRequestsAdaptiveGroups`; Bing Webmaster Tools AI Performance for ismybrandinai.com |
